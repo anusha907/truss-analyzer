@@ -13,5 +13,10 @@ Visualized tensile and compressive forces using color-coded graphical output usi
 - NumPy
 - Matplotlib
 
-## Contribution
+
 Developed as part of a 4-member team for ES221 (Mechanics of Solids)
+## Team Members
+-Modalavalasa Anusha
+-Pranav Magarde 
+-Kavya Parmar 
+-Aksh Solanki 
